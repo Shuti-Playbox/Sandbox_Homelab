@@ -17,6 +17,6 @@ Through this setup, I learned:
   How to analyze system events and security alerts to improve visibility into network activity.
   The importance of cross-platform log collection for comprehensive security monitoring.
 
-While i am still currently playing aroudn with ideas and trying different attacks on the agents to see how it would show up in Wazuh,  i am also keen on trying to setup an AD lab of small size but that will problaby happen a bit furter into the future
+I have also expanded with a Windows server 2022 setup as a AD DC with one windows 11 VM connected to the domain. more details in the future
 
 //Shuti
